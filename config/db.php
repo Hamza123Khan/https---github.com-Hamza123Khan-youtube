@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "hello123!@#";
 $dbname = "youtube";
 
 // Create connection

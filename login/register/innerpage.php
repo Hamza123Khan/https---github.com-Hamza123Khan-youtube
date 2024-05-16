@@ -2,7 +2,7 @@
 <?php
 		$sname = "localhost";
 		$uname = "root";
-		$password = "";
+		$password = "hello123!@#";
 		
 		$db_name = "youtube";
 		
